@@ -1,0 +1,10 @@
+# fichiers generes
+build
+*.kotlin
+*.class
+#fichiers IDE
+.idea/
+.vscode/
+
+# autres
+.DS_Store
